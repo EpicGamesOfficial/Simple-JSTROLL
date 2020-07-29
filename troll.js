@@ -41,7 +41,7 @@ var css = `
 }
 body {
   animation-name: roll; 
-  animation-duration: 4s; 
+  animation-duration: 60s; 
   animation-iteration-count: 1;
 }
 `
